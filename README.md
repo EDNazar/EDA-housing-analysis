@@ -19,9 +19,9 @@ README.md - Описание проекта
 
 ## Используемые инструменты:
 
-### **Pandas, NumPy** - обработка и анализ данных 
-### **Matplotlib, Seaborn** - визуализация данных 
-### **Jupyter Notebook** - среда
+**Pandas, NumPy** - обработка и анализ данных 
+**Matplotlib, Seaborn** - визуализация данных 
+**Jupyter Notebook** - среда
 
 ## Источник данных:
 https://www.kaggle.com/datasets/camnugent/california-housing-prices
