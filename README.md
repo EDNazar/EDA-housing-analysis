@@ -1,4 +1,4 @@
-# EDA-housing-analysis
+# EDA housing
 
 ## Описание
 В данном проекте проведён разведочный анализ данных (Exploratory Data Analysis, EDA) для датасета California Housing Prices
