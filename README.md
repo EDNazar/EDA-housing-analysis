@@ -7,21 +7,15 @@
 Цель анализа - исследовать зависимость цен на жильё от географических и структурных факторов:  широта/долгота, удалённость от океана, количество комнат и спален.
 
 ## Структура проекта
-EDA-housing-analysis/
-│
-├── charts/                      Графики и гистограммы
-│
-├── data/
-│   ├── raw/                     Исходный датасет без изменений
-│   │   └── housing.csv
-│   │
-│   └── processed/               Очищенные данные
-│       └── housing_clean.csv
-│
-├── notebooks/
-│   └── EDA.ipynb                Разведочный анализ данных (EDA)
-│
-└── README.md                    Описание проекта
+charts - Графики и гистограммы
+
+data/raw/housing.csv - Исходный датасет без изменений
+
+data/processed/housing_clean.csv - очищенные данные
+
+data/notebooks/EDA.ipynb - Разведочный анализ данных (EDA)
+
+README.md - Описание проекта
 
 ## Источник данных:
 https://www.kaggle.com/datasets/camnugent/california-housing-prices
@@ -49,8 +43,8 @@ https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
 ## Используемые инструменты:
 
-**Pandas, NumPy** - обработка и анализ данных
-**Matplotlib, Seaborn** - визуализация данных
+**Pandas, NumPy** - обработка и анализ данных 
+**Matplotlib, Seaborn** - визуализация данных 
 **Jupyter Notebook** - среда
 
 ## Шаги EDA:
