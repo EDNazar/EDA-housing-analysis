@@ -17,6 +17,12 @@ data/notebooks/EDA.ipynb - Разведочный анализ данных (EDA
 
 README.md - Описание проекта
 
+## Используемые инструменты:
+
+### **Pandas, NumPy** - обработка и анализ данных 
+### **Matplotlib, Seaborn** - визуализация данных 
+### **Jupyter Notebook** - среда
+
 ## Источник данных:
 https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
@@ -40,12 +46,6 @@ https://www.kaggle.com/datasets/camnugent/california-housing-prices
 9. medianHouseValue - медианная стоимость жилья (целевая переменная)
 
 10. oceanProximity - расположение относительно океана
-
-## Используемые инструменты:
-
-**Pandas, NumPy** - обработка и анализ данных 
-**Matplotlib, Seaborn** - визуализация данных 
-**Jupyter Notebook** - среда
 
 ## Шаги EDA:
 1. Распределение таргета (целевой переменной)
